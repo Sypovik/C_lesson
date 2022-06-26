@@ -1,2 +1,2 @@
-gcc lesson* -o myProg
+gcc code* -o myProg
 ./myProg
